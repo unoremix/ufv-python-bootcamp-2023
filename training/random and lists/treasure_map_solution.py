@@ -18,3 +18,4 @@ map[row - 1][column - 1] = "X"
 
 # 🚨 Don't change the code below 👇
 print(f"{row1}\n{row2}\n{row3}")
+print(f"{map}")

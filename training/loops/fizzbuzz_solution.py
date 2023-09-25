@@ -1,6 +1,5 @@
 # Starting our loop from 1 up to 100 (inclusive)
 for number in range(1, 101):
-
     # Initialize an empty string to hold our result
     output = ""
 
